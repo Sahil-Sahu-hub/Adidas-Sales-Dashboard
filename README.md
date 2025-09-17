@@ -17,7 +17,7 @@ Adidas US needed clarity on sales drivers and underperforming segments following
 ## Dataset
 The dataset consisted of **24 months (2020–2021) of Adidas US sales transactions**, merged with product and retailer metadata. 
 
-##Key Insights
+## Key Insights
 
 * 445% YoY growth: $132M (2020) → $718M (2021), validating post-pandemic rebound.
 
