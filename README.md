@@ -1,17 +1,18 @@
-# Adidas-Sales-Dashboard
+## Project Title
+Adidas Sales Performance
 
-**Objective**
+## Brief One Line Summary
+Interactive analytics dashboard quantifying Adidas US sales performance across products, regions, and channels (2020–2021).
 
-Analyze Adidas product sales performance across U.S. regions over 2020 and 2021, highlighting top-performing products and regional revenue contributions.
+## Overview
+This project evaluates Adidas’s US sales performance during the highly volatile years of 2020–2021, when the pandemic disrupted consumer behavior, retail operations, and global supply chains. The goal was to derive actionable intelligence that could be consumed by cross-functional stakeholders: product teams, regional managers, and channel strategists.  
 
-**Key Insights**
+The deliverable is a reproducible, data-driven dashboard that provides stakeholders with insights into revenue drivers, underperforming segments, and regional imbalances. The dashboard is designed to serve as a decision-support system—translating transactional sales data into KPIs tied directly to revenue growth, channel optimization, and product development priorities.  
 
-Men’s Street Footwear was the top-selling product in both 2020 & 2021
+The intended audience includes data analysts, business strategists, and product managers who require near real-time clarity on performance trends and the business levers behind them.  
 
-West region consistently generated the highest revenue
+## Problem Statement
+Adidas US needed clarity on sales drivers and underperforming segments following pandemic-related disruptions. Revenue surged 445% year-over-year ($132M → $718M), but dependencies (Men’s Street Footwear dominance, Amazon-driven e-commerce reliance, South region underperformance) created strategic blind spots. Success was defined by identifying growth levers, quantifying opportunity gaps, and enabling stakeholders to reallocate marketing spend, optimize product portfolios, and rebalance regional investments. KPIs include revenue growth, channel mix percentage, and regional market share delta.
 
-South & Midwest regions underperformed, especially in 2021
-
-Women’s Athletic Footwear had the lowest sales in 2021
-
-Sales patterns remained relatively stable across years with product and region trends repeating
+## Dataset
+The dataset consisted of **24 months (2020–2021) of Adidas US sales transactions**, merged with product and retailer metadata. 
