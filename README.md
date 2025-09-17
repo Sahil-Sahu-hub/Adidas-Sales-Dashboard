@@ -56,6 +56,5 @@ The dataset consisted of **24 months (2020–2021) of Adidas US sales transactio
 ## Author & Contact
 
 Author: Sahil Sahu — Data Analyst
-Email: sahilsahu20aug@gmail.com
 
-GitHub: github.com/sahil-sahu-data-analyst
+Email: sahilsahu20aug@gmail.com
