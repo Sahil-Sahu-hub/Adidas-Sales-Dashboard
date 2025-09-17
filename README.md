@@ -35,7 +35,7 @@ The dataset consisted of **24 months (2020–2021) of Adidas US sales transactio
 
 * Midwest mild improvement: last → second-last performer; shows incremental progress but not enough to change portfolio strategy.
 
-##Results & Conclusion
+## Results & Conclusion
 
 * Revenue Growth: +445% YoY ($132M → $718M).
 
@@ -45,7 +45,7 @@ The dataset consisted of **24 months (2020–2021) of Adidas US sales transactio
 
 * Interpretation: Adidas rebounded strongly post-pandemic but faces over-reliance on men’s street footwear, Amazon-driven sales, and regional imbalance.
 
-##Future Work
+## Future Work
 
 * Incorporate predictive models for demand forecasting.
 
@@ -53,7 +53,7 @@ The dataset consisted of **24 months (2020–2021) of Adidas US sales transactio
 
 * Integrate external market/competitor benchmarks.
 
-##Author & Contact
+## Author & Contact
 
 Author: Sahil Sahu — Data Analyst
 Email: sahilsahu20aug@gmail.com
